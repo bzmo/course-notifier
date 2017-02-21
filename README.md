@@ -7,4 +7,4 @@ Using Python, course-notifier notifies you when a class is open by e-mail by que
 
 Fill in the 'Email' and 'Course Selection' constants with the appropriate info and then run the 'query.py' script.
 
-Preferably, use a crontab job to run the 'query.py' periodically.
+Preferably, use a crontab job to run 'query.py' periodically.
